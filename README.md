@@ -1,2 +1,6 @@
-# PC-Lockout
-I spend too much time on my computer so I wrote this simple script to help me get some time away. This program will lock my PC automatically every night at 7pm until 8pm. There are 2 warning signals, one siren at 5 minutes before and 2 sirens 10s before lock. It's not perfect, depending on what time the program first runs it can lock anywhere from 7PM-7:05PM but its good enough and gets me outside :)
+#PC-Lockout
+
+I spend too much time on my computer, so I wrote this simple script to help me get some time away.
+
+## How It Works
+The program automatically locks my PC every night at 7 PM until 8 PM. It gives two warning signals: one siren five minutes before, and two sirens ten seconds before the lock. It’s not perfect, depending on when the program starts, it can lock anywhere between 7:00 and 7:05 PM but it’s good enough to get me outside. :)
